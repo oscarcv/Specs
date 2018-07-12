@@ -12,7 +12,7 @@ Website: [https://tokbox.com/developer/sdks/ios/](https://tokbox.com/developer/s
 
 | Platform | Lines to add to your Cartfile |
 | -------- | -------- |
-| iOS      | `binary "https://oscarcv.github.io/Specs/Carthage/iOS/OpenTok.json"` |
+| iOS      | `binary "https://raw.githubusercontent.com/oscarcv/Specs/master/Carthage/iOS/OpenTok.json"` |
 
 ## Contribute
 
